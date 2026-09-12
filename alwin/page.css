@@ -1,0 +1,39 @@
+table {
+  border-collapse: collapse;
+  width: 100%;
+  border: 1px solid black;
+
+}
+th {
+    background-color:darkgrey;
+    color: white;
+    text-align: center;
+    padding:3px;
+}
+td {
+    padding: 4px 6px;
+    border-bottom: 1px solid black;
+}
+
+th, td{
+width: 50%;
+}
+
+th, td {
+width: 50%;
+}
+caption {
+  caption-side: bottom;
+  padding: 10px;
+  font-weight: bold;
+}
+
+*{
+    font-family: "Helvetica", sans-serif;
+}
+
+.image{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
